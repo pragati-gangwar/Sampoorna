@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976269825485",
+    "project_id": "sampoorna-2a226",
+    "storage_bucket": "sampoorna-2a226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976269825485:android:5ff0dba661be47fd1e2084",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnCPJHyHf7GlPNCakCzPTYSTFvlIwQ0EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976269825485:android:fcba16420ef56bac1e2084",
+        "android_client_info": {
+          "package_name": "com.example.sampoorna_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnCPJHyHf7GlPNCakCzPTYSTFvlIwQ0EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
