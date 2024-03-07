@@ -1,0 +1,104 @@
+name: hackathon_proj
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.6 <4.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  screen_brightness: ^1.0.0
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.25.4
+  cloud_firestore: ^4.15.5
+  firebase_auth: ^4.17.4
+  shared_preferences: ^2.2.2
+  provider: ^6.1.1
+  country_code_picker: ^3.0.0
+  intl: ^0.19.0
+  routemaster: ^1.0.1
+  flutter_riverpod: ^2.4.10
+  fpdart: ^1.1.0
+  firebase_storage: ^11.6.6
+  uuid:
+  fluttertoast: ^8.2.4
+  shimmer: ^3.0.0
+  image_picker: ^1.0.7
+  dotted_border: ^2.1.0
+  file_picker: ^6.1.1
+  custom_clippers: ^2.0.0
+  speech_to_text: ^6.6.0
+  table_calendar: ^3.1.0
+  url_launcher: ^6.2.5
+  youtube_player_flutter: ^9.0.0
+  audioplayers: ^5.2.1
+  flutter_tts: ^3.8.5
+  flutter_svg: ^2.0.10+1
+  flutter_rating_bar: ^4.0.1
+  google_maps_flutter: ^2.5.3
+  google_fonts: ^6.1.0
+  smooth_page_indicator: ^1.1.0
+  shake: ^2.2.0
+  permission_handler: ^11.3.0
+  contacts_service: ^0.6.3
+  sqflite: ^2.3.2
+  flutter_phone_direct_caller: ^2.1.1
+  background_sms: ^0.0.4
+  geolocator: ^11.0.0
+  geocoding: ^2.2.0
+  flutter_local_notifications: ^16.3.2
+  vibration: ^1.8.4
+  flutter_native_splash: ^2.3.10
+  google_gemini: ^0.1.2
+  sound_stream:
+      path: C:\Users\hp\Downloads\flutter-sound-stream-master\flutter-sound-stream-master
+  dialogflow_grpc:
+      path: C:\Users\hp\Downloads\dialogflow_grpc_flutter-main\dialogflow_grpc_flutter-main
+  rxdart: ^0.27.7
+  pie_chart: ^5.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/credentials.json
+  #   - images/a_dot_ham.jpeg
+
+flutter_native_splash:
+  color: "#7F669D"
+  color_dark: "#222831"
+  image: assets/images/logoL.jpg
+  image_dark: assets/images/logo.jpg
+
+  android_12:
+#    icon_background_color: "#7F669D"
+#    icon_background_color_dark: "#1A1B18"
+    image: assets/images/logoL.jpg
+    color: "#7F669D"
+    image_dark: assets/images/logo.jpg
+    color_dark: "#222831"
+
+
