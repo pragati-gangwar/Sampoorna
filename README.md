@@ -69,10 +69,10 @@ We are fulfilling: <br/>
 <span>
 <img src='assets/images/Tech1.jpeg' width="120" height="80">
 <img src='assets/images/Tech2.jpeg' width="120" height="80">
-<img src='assets/images/Tech3.jpeg' width="200" height="80">
-<img src='assets/images/Tech4.jpeg' width="200" height="80">
-<img src='assets/images/Tech5.jpeg' width="200" height="80">
-<img src='assets/images/Tech6.jpeg' width="200" height="80">
+<img src='assets/images/Tech3.jpeg' width="120" height="80">
+<img src='assets/images/Tech4.jpeg' width="120" height="80">
+<img src='assets/images/Tech5.jpeg' width="120" height="80">
+<img src='assets/images/Tech6.jpeg' width="120" height="80">
 
 </span>
  </p>
