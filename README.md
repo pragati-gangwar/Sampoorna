@@ -31,7 +31,7 @@ In today's society, individuals with disabilities face numerous challenges, incl
 
 Our project is dedicated to empowering individuals with disabilities by providing a comprehensive application focused on safety, inclusivity, and empowerment. In addition to fostering connections and accessing resources, our app prioritizes mental safety through features like Medicare and SOS. By offering a holistic approach to support, we aim to enhance the overall well-being and quality of life for our users .
 ### Detailed Video Link 
-[Video](https://drive.google.com/drive/folders/1mkLXWs7DwYoWSUYwtNZYQgLm-LYyRk58)
+[Video](https://drive.google.com/file/d/111IIwF8BKKPQE5E7nwStyRVviHRraSkM/view)
 
 ### UN 17 Goals 
 
