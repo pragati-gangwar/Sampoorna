@@ -1,4 +1,4 @@
-# <center><h1 align="center"> Sampoorna <br/> <img src='assets/images/Logo.jpeg' width="100" height="100"> </h1></center>
+# <center><h1 align="center"> Sampoorna <br/><br/> <img src='assets/images/Logo.jpeg' width="100" height="100"> </h1></center>
 ### <center><p align="center"><i>EmbraceSafe: Nurturing Strength</i></p></center>
 
 <br> 
