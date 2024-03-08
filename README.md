@@ -50,8 +50,8 @@ We are fulfilling: <br/>
 
 ### Salient Features
 
-**Connect Me**: Facilitates connections with counselors, nearby volunteers, and NGOs for personalized support and assistance.
-Education and Mood Tracking: Offers a diverse range of educational content accessible in various formats, accompanied by a mood tracking feature to monitor emotional well-being.
+**Connect Me**: Facilitates connections with counselors, nearby volunteers, and NGOs for personalized support and assistance.<br/>
+**Education and Mood Tracking:** Offers a diverse range of educational content accessible in various formats, accompanied by a mood tracking feature to monitor emotional well-being.
 <br/>
 **Report and Recommendation**: Empowers users to recommend disabled-friendly locations and services, promoting inclusivity and accessibility. <br/>
 **Medicare**: Streamlines healthcare management by enabling users to maintain medical records, set prescription reminders, and access healthcare services conveniently. <br/>
@@ -67,12 +67,12 @@ Education and Mood Tracking: Offers a diverse range of educational content acces
 
 <p align="center">
 <span>
-<img src='assets/images/Tech1.jpeg' width="80" height="80">
-<img src='assets/images/Tech2.jpeg' width="80" height="80">
-<img src='assets/images/Tech3.jpeg' width="80" height="80">
-<img src='assets/images/Tech4.jpeg' width="80" height="80">
-<img src='assets/images/Tech5.jpeg' width="80" height="80">
-<img src='assets/images/Tech6.jpeg' width="80" height="80">
+<img src='assets/images/Tech1.jpeg' width="100" height="80">
+<img src='assets/images/Tech2.jpeg' width="100" height="80">
+<img src='assets/images/Tech3.jpeg' width="100" height="80">
+<img src='assets/images/Tech4.jpeg' width="100" height="80">
+<img src='assets/images/Tech5.jpeg' width="100" height="80">
+<img src='assets/images/Tech6.jpeg' width="100" height="80">
 
 </span>
  </p>
