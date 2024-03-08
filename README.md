@@ -67,7 +67,7 @@ We are fulfilling: <br/>
 
 <p align="center">
 <span>
-<img src='assets/images/Tech1.jpeg' width="200" height="80">
+<img src='assets/images/Tech1.jpeg' width="120" height="80">
 <img src='assets/images/Tech2.jpeg' width="200" height="80">
 <img src='assets/images/Tech3.jpeg' width="200" height="80">
 <img src='assets/images/Tech4.jpeg' width="200" height="80">
